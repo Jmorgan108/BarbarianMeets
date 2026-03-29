@@ -3275,11 +3275,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code Development\\BarbarianMeets\\API\\API.csproj",
+      "projectUniqueName": "D:\\Code Development\\BarbarianMeets-1\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Code Development\\BarbarianMeets\\API\\API.csproj",
+      "projectPath": "D:\\Code Development\\BarbarianMeets-1\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Joshua Morgan\\.nuget\\packages\\",
-      "outputPath": "D:\\Code Development\\BarbarianMeets\\API\\obj\\",
+      "outputPath": "D:\\Code Development\\BarbarianMeets-1\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -3300,11 +3300,10 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\Code Development\\BarbarianMeets\\Application\\Application.csproj": {
-              "projectPath": "D:\\Code Development\\BarbarianMeets\\Application\\Application.csproj"
+            "D:\\Code Development\\BarbarianMeets-1\\Application\\Application.csproj": {
+              "projectPath": "D:\\Code Development\\BarbarianMeets-1\\Application\\Application.csproj"
             }
           }
         }
@@ -3323,7 +3322,6 @@
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": {

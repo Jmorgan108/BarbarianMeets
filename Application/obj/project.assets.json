@@ -1051,11 +1051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code Development\\BarbarianMeets\\Application\\Application.csproj",
+      "projectUniqueName": "D:\\Code Development\\BarbarianMeets-1\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "D:\\Code Development\\BarbarianMeets\\Application\\Application.csproj",
+      "projectPath": "D:\\Code Development\\BarbarianMeets-1\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Joshua Morgan\\.nuget\\packages\\",
-      "outputPath": "D:\\Code Development\\BarbarianMeets\\Application\\obj\\",
+      "outputPath": "D:\\Code Development\\BarbarianMeets-1\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1076,14 +1076,13 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\Code Development\\BarbarianMeets\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Code Development\\BarbarianMeets\\Domain\\Domain.csproj"
+            "D:\\Code Development\\BarbarianMeets-1\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Code Development\\BarbarianMeets-1\\Domain\\Domain.csproj"
             },
-            "D:\\Code Development\\BarbarianMeets\\Persistence\\Persistence.csproj": {
-              "projectPath": "D:\\Code Development\\BarbarianMeets\\Persistence\\Persistence.csproj"
+            "D:\\Code Development\\BarbarianMeets-1\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\Code Development\\BarbarianMeets-1\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -1102,7 +1101,6 @@
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",

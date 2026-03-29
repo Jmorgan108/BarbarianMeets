@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Qnt8RjCE48=",
+  "dgSpecHash": "STEFkRhbbUY=",
   "success": true,
-  "projectFilePath": "D:\\Code Development\\BarbarianMeets\\Persistence\\Persistence.csproj",
+  "projectFilePath": "D:\\Code Development\\BarbarianMeets-1\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joshua Morgan\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.0\\microsoft.data.sqlite.core.10.0.0.nupkg.sha512",
     "C:\\Users\\Joshua Morgan\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.0\\microsoft.entityframeworkcore.10.0.0.nupkg.sha512",

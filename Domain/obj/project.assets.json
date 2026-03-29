@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code Development\\BarbarianMeets\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Code Development\\BarbarianMeets-1\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Code Development\\BarbarianMeets\\Domain\\Domain.csproj",
+      "projectPath": "D:\\Code Development\\BarbarianMeets-1\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Joshua Morgan\\.nuget\\packages\\",
-      "outputPath": "D:\\Code Development\\BarbarianMeets\\Domain\\obj\\",
+      "outputPath": "D:\\Code Development\\BarbarianMeets-1\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -40,7 +40,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -59,7 +58,6 @@
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "imports": [
           "net461",

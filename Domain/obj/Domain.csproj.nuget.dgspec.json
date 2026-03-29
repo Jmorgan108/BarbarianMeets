@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Code Development\\BarbarianMeets\\Domain\\Domain.csproj": {}
+    "D:\\Code Development\\BarbarianMeets-1\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "D:\\Code Development\\BarbarianMeets\\Domain\\Domain.csproj": {
+    "D:\\Code Development\\BarbarianMeets-1\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Code Development\\BarbarianMeets\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Code Development\\BarbarianMeets-1\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "D:\\Code Development\\BarbarianMeets\\Domain\\Domain.csproj",
+        "projectPath": "D:\\Code Development\\BarbarianMeets-1\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Joshua Morgan\\.nuget\\packages\\",
-        "outputPath": "D:\\Code Development\\BarbarianMeets\\Domain\\obj\\",
+        "outputPath": "D:\\Code Development\\BarbarianMeets-1\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

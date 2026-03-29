@@ -1032,11 +1032,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code Development\\BarbarianMeets\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "D:\\Code Development\\BarbarianMeets-1\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "D:\\Code Development\\BarbarianMeets\\Persistence\\Persistence.csproj",
+      "projectPath": "D:\\Code Development\\BarbarianMeets-1\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Joshua Morgan\\.nuget\\packages\\",
-      "outputPath": "D:\\Code Development\\BarbarianMeets\\Persistence\\obj\\",
+      "outputPath": "D:\\Code Development\\BarbarianMeets-1\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1057,11 +1057,10 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "D:\\Code Development\\BarbarianMeets\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Code Development\\BarbarianMeets\\Domain\\Domain.csproj"
+            "D:\\Code Development\\BarbarianMeets-1\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Code Development\\BarbarianMeets-1\\Domain\\Domain.csproj"
             }
           }
         }
@@ -1080,7 +1079,6 @@
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Sqlite": {

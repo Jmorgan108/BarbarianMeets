@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WlicRYc47B8=",
+  "dgSpecHash": "GDEcTdJUIsk=",
   "success": true,
-  "projectFilePath": "D:\\Code Development\\BarbarianMeets\\API\\API.csproj",
+  "projectFilePath": "D:\\Code Development\\BarbarianMeets-1\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Joshua Morgan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Joshua Morgan\\.nuget\\packages\\microsoft.build\\17.7.2\\microsoft.build.17.7.2.nupkg.sha512",
