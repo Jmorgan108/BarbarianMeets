@@ -2,6 +2,8 @@
 
 ### A Meet project for Strongman and Powerlifting competetions
 
+Using MaterialUi
+
 ---
 
 ### How to Run in Development environments
