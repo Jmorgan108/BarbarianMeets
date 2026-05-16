@@ -26,13 +26,18 @@ export default function NavBar() {
                                 Contact
                             </MenuItem>
                         </MenuList>
-                        <Button size="large" variant="contained" color="warning">Create Event</Button>
+                        <Button size="large" variant="contained" sx={{
+                            backgroundColor: '#fff',
+                            color: '#C24E00',
+                            fontWeight: 700,
+                            '&:hover': {
+                                backgroundColor: '#f3f3f3a0'
+                            }
+                        }}>Create Event</Button>
                     </Toolbar>
                 </Container>
 
             </AppBar>
         </Box>
-
-
     )
 }

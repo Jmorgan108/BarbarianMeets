@@ -2,8 +2,9 @@ import { Button, Card, CardActions, CardContent, Chip, Typography } from "@mui/m
 
 type Props = {
     activity: Activity;
+    selectEvent: (id: string) => void;
 }
-export default function EventCard({ activity }: Props) {
+export default function EventCard({ activity, selectEvent }: Props) {
     return (
         <Card>
             <CardContent>
@@ -14,7 +15,7 @@ export default function EventCard({ activity }: Props) {
             </CardContent>
             <CardActions sx={{ display: 'flex', justifyContent: 'space-between', pb: 2 }}>
                 <Chip label={activity.category} variant="outlined" />
-                <Button size="medium" variant="contained">View</Button>
+                <Button onClick={() => selectEvent(activity.id)} size="medium" variant="contained">View</Button>
             </CardActions>
 
         </Card >
