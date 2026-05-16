@@ -10,3 +10,6 @@
 - Next I would cd into the client and use 'npm run dev' in order to get the Vite server up and running
 
 ---
+
+React Structure - Grouped by Features or Routes
+{Note for must React RFC To make a quick function}
